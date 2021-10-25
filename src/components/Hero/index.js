@@ -8,7 +8,7 @@ const Hero = () => {
 
     const toggle = () => {
         setIsOpen(!isOpen)
-    }
+    };
 
     return (
     <HeroContainer>
